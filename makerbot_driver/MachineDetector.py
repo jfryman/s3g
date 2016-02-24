@@ -41,8 +41,6 @@ def get_gMachineDetector():
 gMachineClasses = {
     'The Replicator 2':
     {'vid': 0x23C1, 'pid': 0xB016, 'machineProfiles': '.*Replicator2'},
-    'The Replicator 2':
-    {'vid': 0x23C1, 'pid': 0xB015, 'machineProfiles': '.*Replicator2'},
     'The Replicator':
     {'vid': 0x23C1, 'pid': 0xD314, 'machineProfiles': '.*Replicator'},
     'MightyBoard':
